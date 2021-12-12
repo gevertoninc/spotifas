@@ -1,0 +1,9 @@
+# Binaries
+bin
+
+# Environment files
+.env*
+!.env.example
+
+# IDE
+.idea

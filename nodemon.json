@@ -1,0 +1,6 @@
+{
+  "exec": "go run main.go",
+  "ext": "go",
+  "legacyWatch": true,
+  "signal": "SIGTERM"
+}
