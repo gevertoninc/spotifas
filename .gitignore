@@ -7,3 +7,6 @@ bin
 
 # IDE
 .idea
+
+# Local history
+.history
